@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/ObjectExpressiona/ObjectExpressiona/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/ObjectExpressiona/ObjectExpressiona/bin/Debug/ObjectExpressiona.exe.mdb
+/home/jacqueline/Projects/ObjectExpressiona/ObjectExpressiona/bin/Debug/ObjectExpressiona.exe
+/home/jacqueline/Projects/ObjectExpressiona/ObjectExpressiona/obj/x86/Debug/ObjectExpressiona.exe
+/home/jacqueline/Projects/ObjectExpressiona/ObjectExpressiona/obj/x86/Debug/ObjectExpressiona.exe.mdb
